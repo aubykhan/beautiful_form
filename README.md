@@ -1,6 +1,6 @@
 # beautiful_form
 
-An sample app to show the versatility of [ListTile widget](https://docs.flutter.io/flutter/material/ListTile-class.html).
+A sample app to show the versatility of [ListTile widget](https://docs.flutter.io/flutter/material/ListTile-class.html).
 
 ## Learn more about Flutter
 
